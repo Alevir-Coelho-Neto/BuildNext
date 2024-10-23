@@ -21,7 +21,7 @@ BuildNext é um projeto de site focado na apresentação de serviços de engenha
 
 Aqui está uma prévia da página inicial do projeto:
 
-![Home Page](./path-to-your-image.png) <!-- Substitua pelo caminho da sua imagem -->
+![Home Page](./src/img/print-home-page.png) <!-- Substitua pelo caminho da sua imagem -->
 
 ## 🚀 Status do Projeto
 
