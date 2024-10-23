@@ -1,8 +1,6 @@
-# BuildNext - Projeto de Site para Engenharia e Construção
+# BuildNext - Interface de Serviços para Engenharia e Construção
 
-![BuildNext Home](./path-to-your-image.png) <!-- Substitua pelo caminho da sua imagem -->
-
-BuildNext é um projeto de site focado na apresentação de serviços de engenharia e laudos técnicos. Desenvolvido com uma abordagem minimalista e funcional, o projeto visa entregar uma experiência visual atraente e acessível para futuros clientes e visitantes. A responsividade está em desenvolvimento para garantir que o site se adapte perfeitamente a diferentes dispositivos.
+BuildNext é um site focado na apresentação de serviços de engenharia e laudos técnicos. Desenvolvido com uma abordagem minimalista e funcional, o projeto visa entregar uma experiência visual atraente e acessível para todos os visitantes. A responsividade está em desenvolvimento para garantir que o site se adapte perfeitamente a diferentes dispositivos.
 
 ## 🌟 Funcionalidades
 
@@ -30,9 +28,8 @@ Atualmente, o site está em desenvolvimento, com o foco na melhoria da responsiv
 ## 📬 Contato
 Para mais informações, sugestões ou perguntas, entre em contato através das redes sociais abaixo:
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/levi.devs)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alevir-coelho-neto)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/levi.devs) &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alevir-coelho-neto)
 
 ---
 
