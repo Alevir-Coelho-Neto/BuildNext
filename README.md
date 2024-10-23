@@ -33,4 +33,4 @@ Para mais informações, sugestões ou perguntas, entre em contato através da s
 
 ---
 
-> Este projeto é parte de um portfólio e não representa uma empresa real.
+> &copy; 2024 Build Next. Todos os direitos reservados.
