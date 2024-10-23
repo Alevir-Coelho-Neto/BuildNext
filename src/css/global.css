@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Familjen+Grotesk:ital,wght@0,400..700;1,400..700&display=swap");
+
+:root {
+  --Fredoka: "Fredoka", sans-serif;
+  --Montserrat: "Montserrat", sans-serif;
+  --cards: 4;
+  --cardHeight: 100vh;
+  --cardTopPadding: 1.5em;
+  --cardMargin: 4vw;
+  --Familjen: "Familjen Grotesk", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color: #FFFFF0;
+  color: black;
+  font-size: 100%;
+  font-family: var(--Fredoka);
+  margin-top: 0px;
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  background-color: gray;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #d3d3d3;
+  border-radius: 50px;
+  border: 2px solid #808080;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+h2 {
+  font-size: 4rem;
+}
+h3 {
+  font-size: 3.5rem;
+}
+
+h4 {
+  font-size: 3rem;
+}
+
+h5 {
+  font-size: 2.5rem;
+}
+
+h6 {
+  font-size: 2rem;
+}
+
+.bold{
+  text-wrap: bold;
+}
+
+
