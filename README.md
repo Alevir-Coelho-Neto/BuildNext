@@ -30,9 +30,9 @@ Atualmente, o site está em desenvolvimento, com o foco na melhoria da responsiv
 ## 📬 Contato
 Para mais informações, sugestões ou perguntas, entre em contato através das redes sociais abaixo:
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/levi.devs) levi.devs
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/levi.devs)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alevir-coelho-neto) Alevir Coelho
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alevir-coelho-neto)
 
 ---
 
